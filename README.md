@@ -10,7 +10,7 @@ Solução completa de **Business Intelligence (BI)** e **Data Warehousing** dese
 O projeto consolida e modela os microdados migratórios de fronteira disponibilizados pelo **Ministério do Turismo / Observatório Nacional do Turismo** e pela **Polícia Federal** (série histórica de **2023 a julho de 2026**), transformando arquivos planos brutos em inteligência analítica para apoio à tomada de decisão.
 
 > 🔗 **[Acessar Painel OLAP Interativo (Power BI Web)](https://app.powerbi.com/view?r=eyJrIjoiNDA1MzgzZmYtNDk3OC00ZWUwLTk4NGQtNGM4Yjg0Y2EzNzFjIiwidCI6Ijg5YjY3NmUxLTMwMmEtNDkzYi05ODkzLTc5MjAyOTIyN2IzYSJ9)**  
-> 📄 **[Consultar Documentação Completa (Etapas 1 a 6 em PDF)](docs/Data Mart de Estimativas de Chegadas de Turistas Internacionais ao Brasil.pdf)**  
+> 📄 **[Consultar Documentação Completa (Etapas 1 a 6 em PDF)](docs/DataMartdeEstimativasdeChegadasdeTuristasInternacionaisaoBrasil.pdf)**  
 > 🌐 **[Fonte Oficial dos Dados (Observatório Nacional do Turismo)](https://paineis.turismo.gov.br/extensions/observatorio/turistas.html)**
 
 ---
